@@ -1,6 +1,6 @@
 
 
-docker run --name pdesa_test -d practicasdedesarrollounq/go_webserver:1.03 
+docker run -p 9091:9091 --name pdesa_test -d practicasdedesarrollounq/go_webserver:1.03 
   
   
 
